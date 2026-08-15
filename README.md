@@ -6,6 +6,7 @@ My LeetCode DSA journey in Python, covering data structures, algorithms, and pro
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vidya0110/Leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/vidya0110/Leetcode-dsa/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -14,6 +15,7 @@ My LeetCode DSA journey in Python, covering data structures, algorithms, and pro
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vidya0110/Leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/vidya0110/Leetcode-dsa/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -35,4 +37,8 @@ My LeetCode DSA journey in Python, covering data structures, algorithms, and pro
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vidya0110/Leetcode-dsa/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vidya0110/Leetcode-dsa/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
