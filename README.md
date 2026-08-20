@@ -50,4 +50,5 @@ My LeetCode DSA journey in Python, covering data structures, algorithms, and pro
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/vidya0110/Leetcode-dsa/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/vidya0110/Leetcode-dsa/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
